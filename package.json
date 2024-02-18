@@ -1,0 +1,12 @@
+{
+  "name": "recipe-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": ["static page", "step 1", "portfolio"],
+  "author": "Katherin Guerrero",
+  "license": "MIT"
+}
